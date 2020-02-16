@@ -1,0 +1,10 @@
+{
+    "User": {
+        "sender": "{sender}@gmail.com",
+        "passed": "{passwd}"
+    },
+    "Subject": "{Subject}",
+    "Content": "{Content.txt}",
+    "Receivers": "{Reveiver1_add},{Reveiver2_address}",
+    "Attachment": "{attach1},{attach2}"
+}
